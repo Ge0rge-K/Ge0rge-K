@@ -1,1 +1,1 @@
-Ge0rge HS Student
+Ge0rge 
