@@ -4,7 +4,7 @@ import requests
 import pyautogui
 from datetime import datetime
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1460054469302812682/rhYFUVeIh7RGCPk4cSqz-0xgLb-2U5SXS1ahj1Yxtfw8vKSYv35seFsnxvQrqnqduTDT"
+WEBHOOK_URL = "Your Webhook Here"
 INTERVAL_SECONDS = 30 * 60  # 30 minutes
 
 
