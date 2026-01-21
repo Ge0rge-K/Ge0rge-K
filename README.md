@@ -1,16 +1,19 @@
-Welcome to Desktop Tool!
+# 👋 Hi, I'm George | Python Developer
 
-Desktop Tool is a project designed to let you remotely monitor your Bee Swarm Simulator macros through a Discord webhook, making it easy to stay updated no matter where you are.
+Welcome to my GitHub profile! I'm a passionate Python developer who creates practical, innovative tools and applications. I specialize in building desktop utilities, automation scripts, and productivity solutions.
 
-If you encounter any issues or bugs, please submit a request or contact me directly on Discord: georgiethemonke.
+## 🚀 Featured Projects
 
-Disclaimer
+### 🖥️ Desktop Tool - Remote Computer Monitor
+A powerful Python application that allows you to remotely monitor and manage your home computer. Perfect for checking on downloads, installations, or automating tasks while you're away.
 
-I am not responsible for any malicious or illegal use of this software. Any use of this code for such purposes is strictly prohibited and is a violation of my Creative Commons License (CCL) and federal law.
+**Features:**
+- Real-time remote monitoring
+- Task automation capabilities
+- Download progress tracking
+- Installation status monitoring
+- Custom macro support
 
-License
 
-This project is licensed under the
-Creative Commons Attribution–NoDerivatives 4.0 International License.
-To view a copy of this license, visit:
-https://creativecommons.org/licenses/by-nd/4.0/
+## 💼 Technical Skills
+I rely almost entierly on my python skills but I am expirenced in AI development and am willing to learn for new projects.
