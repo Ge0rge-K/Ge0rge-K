@@ -1,0 +1,21 @@
+
+    Goals:
+    Make a working Remote screenshotting tool for my desktop
+
+    Steps:
+    Create a basic GUI layout with easy navigations and button positions placed
+
+    First do the Image Path where the screenshots would go mostlikely will need to communicate to a website
+    
+    /Users/George/Documents/CSP Portfolio/Screenshots
+
+
+
+This code is used to create progress bar and you can make it a funciton
+
+progress = ttk.Progressbar(
+    main_frame, mode="determinate", maximum=100
+)
+progress.grid(row=4, column=0, columnspan=2, sticky="ew", pady=10)
+progress["value"] = 50
+
